@@ -19,7 +19,7 @@ In This notebook I tested almost machine learning algorithms:
 
 ##### My best result:
 - log loss = 0.460
-- Rank = 179/492
+- Leaderboard Rank = 179/492
 
 
 
