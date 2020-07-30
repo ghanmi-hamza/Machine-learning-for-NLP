@@ -27,5 +27,5 @@ Competition URL :
 https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth
 
 
-**Free Software, Hell Yeah!**
+
 
